@@ -1,1 +1,1 @@
-# CivicNorth-lexington-select-board-public-research
+# Lexington-select-board-public-research
